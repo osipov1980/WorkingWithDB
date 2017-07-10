@@ -1,0 +1,11 @@
+c:\users\igor\documents\visual studio 2015\Projects\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.exe.config
+c:\users\igor\documents\visual studio 2015\Projects\WorkingWithDB\WorkingWithDB\bin\Debug\Database.mdf
+c:\users\igor\documents\visual studio 2015\Projects\WorkingWithDB\WorkingWithDB\bin\Debug\Database_log.ldf
+c:\users\igor\documents\visual studio 2015\Projects\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.exe
+c:\users\igor\documents\visual studio 2015\Projects\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.pdb
+c:\users\igor\documents\visual studio 2015\Projects\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.csprojResolveAssemblyReference.cache
+c:\users\igor\documents\visual studio 2015\Projects\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.Form1.resources
+c:\users\igor\documents\visual studio 2015\Projects\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.Properties.Resources.resources
+c:\users\igor\documents\visual studio 2015\Projects\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.csproj.GenerateResource.Cache
+c:\users\igor\documents\visual studio 2015\Projects\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.exe
+c:\users\igor\documents\visual studio 2015\Projects\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.pdb
